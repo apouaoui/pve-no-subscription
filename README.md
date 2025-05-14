@@ -3,12 +3,11 @@
 
 # Proxmox VE No-Subscription Removal
 
-This script removes the 'No valid subscription' warning in Proxmox VE 6 and should only be used in test or demo environments. Please consider [buying a subscription](https://www.proxmox.com/en/proxmox-ve/pricing)
-and supporting the development of Proxmox VE.
+Este script remove o aviso "Assinatura inválida" no Proxmox VE 6 e deve ser usado apenas em ambientes de teste ou demonstração. Considere adquirir uma assinatura e apoiar o desenvolvimento do Proxmox VE.
 
-## How to install
+## Como instalar
 
-#### You can run the removal script one of three ways:
+#### Você pode executar o script de remoção de três maneiras:
 
 ##### 1. Curl
 
