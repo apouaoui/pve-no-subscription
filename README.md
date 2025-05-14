@@ -14,7 +14,7 @@ Este script remove o aviso "Assinatura inválida" no Proxmox VE 6 e deve ser usa
 `curl` into bash like shell:
 
 ```
-curl --proto '=https' --tlsv1.2 -sSf https://raw.githubusercontent.com/rickycodes/pve-no-subscription/main/no-subscription-warning.sh | sh
+curl --proto '=https' --tlsv1.2 -sSf https://raw.githubusercontent.com/apouaoui/pve-no-subscription/refs/heads/main/no-subscription-warning.sh | sh
 ```
 Do not curl blindly :see_no_evil: [Audit the script before you run it](no-subscription-warning.sh). It's not doing anything terribly surprising, I assure you!
 
