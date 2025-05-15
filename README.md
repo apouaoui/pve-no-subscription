@@ -20,7 +20,7 @@ Do not curl blindly :see_no_evil: [Audit the script before you run it](no-subscr
 
 ##### 2. With Git
 
-You can also clone the repo with git and run locally if you prefer, but you'll need `git` (a typical proxmox host doesn't have it installed):
+Você também pode clonar o repositório com o git e executá-lo localmente, se preferir, mas precisará do `git` (um host proxmox típico não o tem instalado):
 ```
 git clone git@github.com:rickycodes/pve-no-subscription.git
 cd pve-no-subscription
